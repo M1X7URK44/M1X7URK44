@@ -7,12 +7,16 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=M1X7URK44&style=flat-square&color=blue" alt=""/>
   <h1>
+    Hi there, I'm Gleb
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    Hi there
+    <h3 align="center">Computer Science student from <a href="http://www.fsb.ru/">Russia</a> <img src="https://abali.ru/wp-content/uploads/2014/03/razvivayushhijsya_flag_rossii_100x100.gif" width="30"></h3>
   </h1>
 </div>
 
+
 ### :woman_technologist: About Me :
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)
+
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - 🔭 I’m studying at ITMO's University and participate in various projects.
